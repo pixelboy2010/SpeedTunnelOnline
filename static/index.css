@@ -54,10 +54,11 @@ body {
         max-width: 600px;
         margin: 0 auto;
         background-color: black;
+        color:white;
         border-radius: 25px;
         box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         overflow: hidden;
-  flex-grow: 1;
+        flex-grow: 1;
         border: none;
         padding: 15px 20px;
         font-size: 18px;
