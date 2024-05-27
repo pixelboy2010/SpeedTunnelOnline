@@ -123,3 +123,7 @@ a{
 .fa:hover {
   color: #aaa;
 }
+
+img {
+  height:200px;
+}
